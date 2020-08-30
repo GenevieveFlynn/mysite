@@ -1,1 +1,6 @@
+# Byte-compiled / optimized / DLL files
+polls/__pycache__/
+mysite/__pycache__/
+
+# Trade secrets lol 
 mysite/secretkey.py

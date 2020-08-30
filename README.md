@@ -13,4 +13,4 @@ Copy the secret key and create a new secretkey.py file in the mysite directory. 
 
 `SECRET_KEY='paste_your_key_here'`
 
-To run the project, enter `python manage.py runserver` and navigate either to the [polls](http://127.0.0.1:8000/polls) or [admin sites](http://127.0.0.1:8000/admin) and enjoy! 
+To run the project, enter `python manage.py runserver` and navigate either to the [polls](http://127.0.0.1:8000/polls) or [admin](http://127.0.0.1:8000/admin) sites and enjoy! 

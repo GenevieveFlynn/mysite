@@ -5,10 +5,9 @@ This is a project based off a Django tutorial to become more familiar with pytho
 This application requires a secret key to run. This key can be generated through the Django shell or there are a number of websites which can generate one for you, [here is an example](https://djecrety.ir/). To generate from the command line, run the following prompts: 
 
 '$ python manage.py shell'
-'''python 
->>> from django.core.management.utils import get_random_secret_key
->>> print(get_random_secret_key())
-'''
+'>>> from django.core.management.utils import get_random_secret_key'
+'>>> print(get_random_secret_key())'
+
 Copy the secret key and create a new secretkey.py file in the mysite directory. The file should look like below:  
 
 'SECRET_KEY='paste_your_key_here''

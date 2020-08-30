@@ -1,4 +1,4 @@
-# Django App Tutorial - MySite
+## Django App Tutorial - MySite
 
 This is a project based off a Django tutorial to become more familiar with python. For more information, [read the documentation](https://docs.djangoproject.com/en/3.1/intro/tutorial01/). 
 
